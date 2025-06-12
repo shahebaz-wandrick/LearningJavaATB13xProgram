@@ -5,4 +5,3 @@ public class Lab001_Helloworld {
         System.out.println("Hello, I am running java program");
     }
 }
- 
